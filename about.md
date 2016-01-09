@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Yo
 permalink: /about/
 ---
 
-Some information about you!
+Desarrollador de software independiente y empezando a transitar los caminos del pensamiento y comportamiento humano.
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+Este es un espacio de opinión personal, realmente poco o nada encontrarán acerca de mi trabajo profesional, quizá encuentrén algún post sobre lo que estoy haciendo o tratando de aprender, pero para más aspectos de mi vida laborar, la cual aspiro sea corta, pueden visitar mi perfil de corbata en Linkedin, si prefieren leer otras cosas puéz sean bienvenidos.
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+Sean libres de escribirme por lo que sea a:
+
+[joseloc@gmail.com](mailto:joseloc@gmail.com)
