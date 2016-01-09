@@ -7,7 +7,8 @@ published: true
 
 
 
-El inicio llega cuando algo termina, asi que me ahorro los precedentes innecesarios, empezamos esta etápa de retomar el blog, punto.
+
+El inicio llega cuando algo termina, asi que me ahorro los precedentes innecesarios, empezamos esta etápa de retomar el blog.
 
 ![El Génesis]({{site.baseurl}}/images/151118155303_1_900x600.jpg)
 
