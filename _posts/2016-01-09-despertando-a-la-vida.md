@@ -1,6 +1,9 @@
 ---
 published: true
+layout: post
+title: El génesis
 ---
+
 
 No se como empezar este post, probablemente este tema que voy a escribir, llego a mi cerebro siendo transferido desde una mente colectiva al creador de esta película, o tal vez ya llego antes a mi cabeza pero no fui "consciente" de este conocimiento.
 
@@ -15,6 +18,3 @@ No quiero ni puedo hacer una análisis a detalle, pero si estas a punto de morir
 [Ver pélicula en español](https://vimeo.com/68014031 "Waking Life - Despertando a la vida")
 
 [Waking Life, referencias filosóficas de la película](http://eltaodeinternet.blogspot.com/2004/07/waking-life-referencias-filosficas-de.html)
-
-
-
