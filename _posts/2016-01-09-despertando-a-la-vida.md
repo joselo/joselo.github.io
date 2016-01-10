@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 No se como empezar este post, probablemente este tema que voy a escribir, llego a mi cerebro siendo transferido desde una mente colectiva al creador de esta película, o tal vez ya llego antes a mi cabeza pero no fui "consciente" de este conocimiento.
