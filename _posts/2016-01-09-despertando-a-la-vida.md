@@ -5,7 +5,7 @@ title: Despertando a la vida
 ---
 
 
-No se como empezar este post, probablemente este tema que voy a escribir, llego a mi cerebro siendo transferido desde una mente colectiva al creador de esta película, o tal vez ya llego antes a mi cabeza pero no fui "consciente" de este conocimiento.
+No se como empezar este post, probablemente estos temas, llegaron a mi cerebro desde una mente colectiva, previa transferencia a los creadores de esta película, o tal vez ya llego antes a mi cabeza pero no fui "consciente" de este conocimiento.
 
 ![Waking Life]({{site.baseurl}}/images/waking_life_by_xxxlizardxxx.jpg)
 
