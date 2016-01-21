@@ -24,6 +24,10 @@ Algunas Presentaciones Ingles:
 
 [Bill Hicks Revelations 1993](http://www.disclose.tv/action/viewvideo/162953/Bill_Hicks__Revelations__Complete_Entire_Video "Bill Hicks Revelations")
 
+Algunas canciones:
+[Bill Hicks - Marble Head Johnson - Lay Of The Land ](https://www.youtube.com/watch?v=NCBkZHriRI8)
+[Bill Hicks - The Moon in Smiling](https://www.youtube.com/watch?v=Yy2Ylltz9x4)
+
 Sitio oficial
 
 http://www.billhicks.com
