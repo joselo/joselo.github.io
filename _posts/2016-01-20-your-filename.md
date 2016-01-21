@@ -10,7 +10,16 @@ Bien, por si no lo notaron este post será sobre este comediante, de acuerdo; Bi
 
 Primero entras con una media sonrisa, luego te riés con todo, para posteriormente decirle al tipo de alado "Tiene razón", ya saben el comporamiento esperado, pero con una diferencia: Que luego del show, tu conciencia empezaba a convulcionar y a decirte, dejame salir!! no me ocultes más, que importa lo que el resto opine, di lo que piensas, desafía al sistema, supera las banalidades de una vida materialista, no seas un "Happy Consumer", deja de ver los noticieros, no a la guerra, no a a religión, lee un libro, basta de supersticiones y mitos, quitale el drama a la muerte, escucha música real, empieza a vivir.. algo así. claro con muchos tintes anarquistas pero eso básicamente.
 
-Ese era Bill, un idealista que abandono su cuerpo por el año 94, ademas era ún músico tenía una banda, compuso algunas canciones, le declaro la guerra a la mediocridad con comedia tán acída que los puritanos hubieran vomitado segados por tanta bulgaridad según ellos.
+Ese era Bill, un idealista que abandono su cuerpo por el año 94, ademas era músico tenía una banda, compuso algunas canciones, le declaro la guerra a la mediocridad y a la doble moral, con una comedia tán acída que los "puritanos" y "correctos" hubieran vomitado al ser segados por tanta bulgaridad según ellos, aunque todos sabemos que no se trata de bulgaridad sino de la verdad que nadie quiere escuchar.
+
+En fin, esto no es una biografía de Bill, lo que he escrito es un sentimiento personal hacia este grán artista, un artista fuera del molde convencional, les dejo algunos recursos para que lo vean.
+
+Documentales
+
+[American: The Bill Hicks Story](http://www.dailymotion.com/video/x1kwmys_the-bill-hicks-story-sub-es_fun "American: The Bill Hicks Story")
+
+
+
 
 
 
