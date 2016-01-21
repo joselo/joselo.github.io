@@ -12,18 +12,17 @@ Primero entras con una media sonrisa, luego te riés con todo, para posteriormen
 
 Ese era Bill, un idealista que abandono su cuerpo por el año 94, ademas era músico tenía una banda, compuso algunas canciones, le declaro la guerra a la mediocridad y a la doble moral, con una comedia tán acída que los "puritanos" y "correctos" hubieran vomitado al ser segados por tanta bulgaridad según ellos, aunque todos sabemos que no se trata de bulgaridad sino de la verdad que nadie quiere escuchar.
 
-En fin, esto no es una biografía de Bill, lo que he escrito es un sentimiento personal hacia este grán artista, un artista fuera del molde convencional, les dejo algunos recursos
+En fin, esto no es una biografía de Bill, lo que he escrito es un sentimiento personal hacia este grán artista, un artista fuera del molde convencional, infortunadamente youtube esta quitando mucho de su material, aca listo algunos recursos, quizá mas adelante pueda editar traducir y subir sus shows.
 
-
-Algunas Presentaciones:
-
-[Bill Hicks - Relentless](http://www.disclose.tv/action/viewvideo/163342/Bill_Hicks__Relentless_1992_Full_Show "Bill Hicks - Relentless")
-
-
-
-Documentales:
+Documentales Español:
 
 [American: The Bill Hicks Story](http://www.dailymotion.com/video/x1kwmys_the-bill-hicks-story-sub-es_fun "American: The Bill Hicks Story")
+
+Algunas Presentaciones Ingles:
+
+[Bill Hicks - Relentless 1992](http://www.disclose.tv/action/viewvideo/163342/Bill_Hicks__Relentless_1992_Full_Show "Bill Hicks - Relentless")
+
+[Bill Hicks Revelations 1993](http://www.disclose.tv/action/viewvideo/162953/Bill_Hicks__Revelations__Complete_Entire_Video "Bill Hicks Revelations")
 
 Sitio oficial
 
