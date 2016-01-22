@@ -18,7 +18,7 @@ Ese era Bill, un idealista que abandono su cuerpo por el año 94, además era m�
 En fin, esto no es una biografía de Bill, lo que he escrito es un sentimiento personal hacia un gran artista, un artista fuera del molde convencional, infortunadamente youtube esta quitando mucho de su material, acá listo algunos recursos, quizá mas adelante pueda editar, traducir y subir sus shows. 
  
  
-** Video resumen en español a manera de tributo ** 
+** Video corto en español a manera de tributo ** 
  
 _Al ver el video activa los subtitulos en youtube._ 
  
@@ -27,18 +27,18 @@ _Al ver el video activa los subtitulos en youtube._
 **Videos cortos:** 
  
 [Marketing](https://www.youtube.com/watch?v=lPZlNG-FCwY) 
+
+[La vida es solo un paseo](https://www.youtube.com/watch?v=NzzdATgTm8M) 
  
 [LSD](https://www.youtube.com/watch?v=V8JCIsaPq3Y) 
  
-[La vida es solo un paseo](https://www.youtube.com/watch?v=NzzdATgTm8M) 
  
- 
-**Documentales Español:** 
+**Documentales español:** 
  
 [American: The Bill Hicks Story](http://www.dailymotion.com/video/x1kwmys_the-bill-hicks-story-sub-es_fun "American: The Bill Hicks Story") 
  
  
-**Algunas Presentaciones Ingles:** 
+**Algunas presentaciones en ingles:** 
  
 [Bill Hicks - Relentless 1992](http://www.disclose.tv/action/viewvideo/163342/Bill_Hicks__Relentless_1992_Full_Show "Bill Hicks - Relentless") 
  
