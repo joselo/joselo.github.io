@@ -2,13 +2,6 @@
 published: false
 ---
 
-
-
-corrector
-Corrector ortográfico para 11 Idiomas.
-
-
-Continuar escribiendo
 ## Solo un paseo
 
 Bill Hicks fue un comediante de stand-up, que falleció a los 32 años, ya se muy joven.. y de que murió?, Se murió de cáncer de páncreas, su muerte puede fácilmente ser acuñada a las drogas y el alcohol, pero como él decía: "Gente sana muere todos los días.. Duerman tranquilos", mientras se fumaba un cigarrillo en sus presentaciones.
@@ -64,21 +57,3 @@ _Al ver el video activa los subtitulos en youtube._
 [Sitio oficial](http://www.billhicks.com)
 
 [Frases](https://es.wikiquote.org/wiki/Bill_Hicks) 
-
-6240 characters left
-
-
-
-Descripción:
-El corrector ortográfico online soporta 11 idiomas diferentes incluido el Inglés y funciona sin necesidad de recargar la página.
-
-Recomendamos: Franquicias de academias de idiomas
-
-Pasos a seguir:
-- Selecciona el idioma en que deseas corregir.
-( Español Ingles Alemán Francés Italiano y otros )
-- Introduce el texto a corregir.
-- Y simplemente haga click en Corregir Ortografía en su Idioma.
-- Pulse encima de las palabras incorrectas para obtener las sugerencias.
-Corrector Español y Corrector Castellano
-| corrector español | corrector catalán | Privacy | cuentos infantiles | contes |
