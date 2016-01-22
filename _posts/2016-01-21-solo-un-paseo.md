@@ -18,7 +18,7 @@ Ese era Bill, un idealista que abandono su cuerpo por el año '94, además era m
 En fin, esto no es una biografía de Bill, lo que he escrito es un sentimiento personal hacia un gran artista, un artista fuera del molde convencional, infortunadamente youtube esta quitando mucho de su material, acá listo algunos recursos, quizá mas adelante pueda editar, traducir y subir sus shows.
 
 
-** Vídeo corto en español a manera de tributo **
+**Vídeo corto en español a manera de tributo**
 
 _Al ver el video activa los subtitulos en youtube._
 
