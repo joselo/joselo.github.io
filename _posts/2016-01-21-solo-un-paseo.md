@@ -4,8 +4,6 @@ layout: post
 title: Solo un paseo
 ---
 
-## Solo un paseo
-
 Bill Hicks fue un comediante de stand-up, que falleció a los 32 años, ya se muy joven.. y de que murió?, Se murió de cáncer de páncreas, su muerte puede fácilmente ser acuñada a las drogas y el alcohol, pero como él decía: "Gente sana muere todos los días.. Duerman tranquilos", mientras se fumaba un cigarrillo en sus presentaciones.
 
 
