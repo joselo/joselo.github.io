@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## He renunciado al soborno del cielo
 
@@ -28,5 +28,4 @@ Evitar nuestra responsabilidad a través de la intercesión del hijo de Dios, il
 
 Pero en vida siempre existe el anhelo de trabajo, comida y casa, la gente ajusta su dogma, ora o reza para obtener el premio anhelado, sin embargo otras personas sin miedos, prejuicios o súplicas, pero con inteligencia ya han logrado este anhelo.
 
-Seguramente es complicado tomar mis premisas como válidas ya que estamos adoctrinados desde antes de tener uso de razón, el sistema cristiano lleva más de 2000 años de ventaja, el enfoque que quiero dar no es ahorrarles el hecho de que deben o no deben creer en este sistema, porque eso es caer en un conformismo, mi intención es que se hagan preguntas o las hagan a quién corresponda para bajarnos del cielo eterno y tocar tierra, 
-
+Seguramente es complicado tomar mis premisas como válidas ya que estamos adoctrinados desde antes de tener uso de razón, el sistema cristiano lleva más de 2000 años de ventaja, el enfoque que quiero dar no es ahorrarles el hecho de que deben o no deben creer en este sistema, porque eso es caer en un conformismo, mi intención es que se hagan preguntas o las hagan a quién corresponda para bajarnos del cielo eterno y tocar tierra,
