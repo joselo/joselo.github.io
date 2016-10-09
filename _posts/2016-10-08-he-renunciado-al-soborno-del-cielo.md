@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: He renunciado al soborno del cielo
 ---
 Pienso que las religiones monoteístas son inmorales, antes de argumentar porque considero esto, dejo claro que NO ME QUIERO DISCULPAR con ninguna persona que profese alguna de estas religiones, ya que si no hay ofensa no han necesidad de disculpas, todo es análisis y es debatible; Porque hago esto?, lo hago por el simple hecho de decir lo que pienso, como todo mundo libremente lo hace compartiendo su fé religiosa o compartiendo lo que ellos piensan, o al menos lo que ellos creen que es correcto.
 
