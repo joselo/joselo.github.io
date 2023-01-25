@@ -9,7 +9,7 @@ class Header extends HTMLElement {
         <nav class="border-gray-200 py-2.5 p-4 lg:p-8">
           <div class="container mx-auto md:flex md:items-center">
             <div class="flex justify-between items-center">
-              <a href="#" class="font-bold text-xl">joselo</a>
+              <a href="#" class="logo font-bold text-2xl text-slate-900 dark:text-white">joselo</a>
 
               <button class="border border-solid border-gray-600 p-3 py-1 rounded opacity-50 hover:opacity-75 md:hidden" id="navbar-toggle">
                 <i class="material-icons">menu</i>
