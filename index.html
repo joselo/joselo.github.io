@@ -9,7 +9,14 @@
     <link rel="stylesheet" href="css/app.css">
 
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Data -->
+    <script src="db/posts.js" type="text/javascript" defer></script>
+
+    <!-- Custom Web Componets -->
     <script src="components/header.js" type="text/javascript" defer></script>
+    <script src="components/posts.js" type="text/javascript" defer></script>
+
     <script type="module" src="https://md-block.verou.me/md-block.js"></script>
     <script type="module" src="js/app.js"></script>
 
@@ -57,9 +64,7 @@
     <header-component></header-component>
 
     <main class="container max-w-xl mx-auto p-4 lg:p-8">
-      <md-block src="p/2023/jan/24.md"></md-block>
-
-      <!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/hCtTN4J_OeM?clip=UgkxgEA6SDqxwtq-nJL_0taPHQLLWLKfcrWf&amp;clipt=ENiIEBi43RM" title="Iron Maiden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+      <posts-component></posts-component>
     </main>
   </body>
 </html>
