@@ -10,7 +10,7 @@ class PostCard extends HTMLElement {
 
     this.innerHTML = `
       <div class="mb-5">
-        <a href="/post.html?${friendlyId}" onclick="route()" class="link">${title}</a>
+        <a href="/p.html?p=${friendlyId}" class="link">${title}</a>
         <div>${date}</div>
       </div>
     `;

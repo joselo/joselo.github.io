@@ -7,8 +7,8 @@ const posts = [
   },
   {
     title: "Segundo Post",
-    date: "2023/jan/26",
+    date: "2023/jan/25",
     friendlyId: 'segundo-post',
-    path: 'p/2023/jan/24.md'
+    path: 'p/2023/jan/25.md'
   }
 ];
