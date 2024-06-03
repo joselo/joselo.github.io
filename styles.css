@@ -26,6 +26,16 @@ body {
   margin: 40px auto;
 }
 
+h1.header:before {
+  content: "{";
+  color: var(--cyan);
+}
+
+h1.header:after {
+  content: "}";
+  color: var(--cyan);
+}
+
 h1 {
   font-weight: bold;
   font-style: normal;
