@@ -1,0 +1,55 @@
+:root {
+  --blue: #005078;
+  --cyan: cyan;
+  --green: #015825;
+  --grey1: #0a0b10;
+  --grey2: #1c1d23;
+  --grey3: #2c2e33;
+  --grey4: #4f5258;
+  --magenta: #4c0049;
+  --red: #5e0009;
+  --yellow: #6e5600;
+}
+
+body {
+  background-color: var(--grey2);
+  color: white;
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 24px;
+}
+
+h2 {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 18px;
+}
+
+a {
+  color: var(--cyan)
+}
+
+p {
+  margin: 42px 0;
+}
+
+.comment:before {
+  content: "# "
+}
+
+.comment {
+  color: var(--grey4)
+}
